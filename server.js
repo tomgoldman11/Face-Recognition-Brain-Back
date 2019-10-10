@@ -8,11 +8,16 @@ const db = knex({
   client: 'pg',
   connection: {
     host : '127.0.0.1',
-    user : 'aneagoie',
-    password : '',
+    user : 'postgres',
+    password : 'Shamen123!',
     database : 'smart-brain'
   }
 });
+
+// check if we get information from database.
+// db.select('*').from('users').then(data => {
+//   console.log(data);
+// });
 
 const app = express();
 

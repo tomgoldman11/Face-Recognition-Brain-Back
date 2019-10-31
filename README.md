@@ -1,11 +1,13 @@
-# SmartBrain-api - v2
-Final project for Udemy course
+# SmartBrain-Back
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+Back-End of the Website using Node.js and PostgreSQL as part of web development course on Udemy.
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+
+Here's the PostgreSQL DataBase : 
+
+
+![DatabasePage](https://user-images.githubusercontent.com/39590212/67948643-d2dd0880-fbee-11e9-8fd2-4c478848f8f7.png)
+
+
+
